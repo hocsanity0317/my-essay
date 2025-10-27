@@ -11,3 +11,7 @@
 ## Add Study group resources
 - take notes
 - brain storming
+
+## Allocate time to Relax
+- follow rest rule
+- sigma
